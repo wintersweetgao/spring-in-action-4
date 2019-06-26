@@ -1,5 +1,9 @@
 package sia.knights;
-  
+
+/**
+ *
+ * @author  dongmei.gao
+ */
 public class BraveKnight implements Knight {
 
   private Quest quest;
